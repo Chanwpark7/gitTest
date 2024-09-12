@@ -6,5 +6,5 @@ public class Babo {
 		System.out.println("Hello World");
 	}
 	
-	String b="b";
+	String ba="ba";
 }
